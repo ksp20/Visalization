@@ -1,0 +1,37 @@
+
+
+<!-- <div class="dropdown">
+  <button style="width: 160px;" class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" (click)="displayOptions()"> Select
+  <span class="caret"></span></button>
+  <div class="dropdown-menu" [ngStyle]="{'display': displayMenu == true ? 'block' : 'none'}" style="padding: 10px;">
+    <li *ngFor="let i of bar_options" (click)="displayOptions()">
+      <a (click)="selectOption(i)" class="high">{{i}}</a>
+    </li>
+  </div>
+</div> -->
+
+
+
+
+  
+<!-- <div class="form-check">
+  <input class="form-check-input" type="checkbox" [value]="'bottom'" id="flexCheckIndeterminate" [(ngModel)]="sdata.cb1" (change)="refresh()">
+  <label class="form-check-label" for="flexCheckIndeterminate">
+    Tilt 
+  </label>
+</div> -->
+<div class="form-check">
+  <input class="form-check-input" style="border-radius: 27px;width: 38px; background-color:#0D6EFD" type="checkbox" [value]="'bottom'" id="flexCheckIndeterminate" >
+  <label class="form-check-label" for="flexCheckIndeterminate">
+    Tilt 
+  </label>
+  <div class="left" *ngIf="true" ></div>
+  <div class="right" *ngIf="false"></div>
+</div>
+
+
+<div *ngIf="reload == true" id="mod" style="display: table; margin: 0 auto;">
+</div>
+
+ 
+ 

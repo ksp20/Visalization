@@ -1,0 +1,22 @@
+
+<div style="margin-left: 30px;" *ngIf="isloading">
+    <button style="width: 50 px;" class="btn btn-primary" type="button" data-toggle="dropdown" (click)="pcpreset()"> 
+        PCP reset
+    <span class="caret"></span></button>
+    <button style="width: 50 px; margin-left: 20px;" class="btn btn-primary" type="button" data-toggle="dropdown" (click)="mdsreset()"> 
+        MDS reset
+    <span class="caret"></span></button>
+</div>
+<div style="margin-left: 30px; margin-top: 10px;">
+    <div style="display: flex; gap:10px; margin-top: 10px;">
+        <div id="d1" ></div>
+        <div id="d2" style="display: 1px solid black;"></div>
+    </div>
+    <div style="display: flex; gap:10px;  margin-top: 10px;">
+        <div id="d3" ></div>
+    </div>
+   
+    <div style="display: flex; gap:10px; margin-top: 10px;">
+        <div id="d4" ></div>
+    </div>
+</div>

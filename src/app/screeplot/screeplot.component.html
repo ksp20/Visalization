@@ -1,0 +1,56 @@
+
+<div *ngIf="loading" style="text-align: center; margin-top: 20px;">
+    <!-- Replace this with your loading spinner component or HTML -->
+    <div class="spinner-border" role="status">
+      <span class="visually-hidden">Loading...</span>
+    </div>
+</div>
+<!-- <button class="button" (click)="sendData()">sendData</button> -->
+<div *ngIf="!loading" style="margin-left: 30px; margin-top: 10px;">
+    <div style="display: flex; gap:10px">
+        <div id="mod" ></div>
+        <div id="d2" ></div>
+    </div>
+    <div style="display: flex; gap:10px; margin-top: 10px;">
+        <div id="d1" ></div>
+        <app-smatrix [kc]="kc" [di]="di"></app-smatrix>
+    </div>
+    <div style="display: flex; gap:10px">
+        <div id="d3" ></div>
+    </div>
+    <!-- <div style="display: grid; grid-template-columns: 30% 70%; border:1px solid black; margin-top: 10px; margin-right: 55px;">
+        <div>
+            <div style=" margin: 10px;"><strong>Attributes</strong></div>
+            <div  style=" margin: 10px;" *ngFor="let i of top_attr, let index = index" [ngStyle]="{'background-color': (index % 2 != 0) ? '' : 'lightgrey'}">
+                {{i}}
+            </div>
+        </div>
+        <div>
+            <div style="margin: 10px;"><strong>Sum of Square Loadings</strong></div>
+            <div style="margin: 10px;" *ngFor="let i of attr_values, let index = index" [ngStyle]="{'background-color': (index % 2 != 0) ? '' : 'lightgrey'}">
+                {{i}}
+            </div>
+        </div>
+    </div> -->
+    <div style="text-align: -webkit-center;">
+        <table style=" border-collapse: collapse; margin-top: 10px; margin-right: 55px; width: 30%;">
+            <thead>
+                <tr>
+                    <th style="border:1px solid black; padding: 10px;"><strong>Attributes</strong></th>
+                    <th style="border:1px solid black; padding: 10px;"><strong>Sum of Square Loadings</strong></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let i of top_attr; let index = index" [ngStyle]="{'background-color': (index % 2 != 0) ? '' : '#d3d3d34d'}">
+                    <td style="border:1px solid black; padding: 10px;">{{ i }}</td>
+                    <td style="border:1px solid black; padding: 10px;">{{ attr_values[index] }}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    
+</div>
+
+<!-- style="display: table; margin: 0 auto;" -->
+<!-- <app-smatrix [di]="di"></app-smatrix> -->
+<div id="d1" style="display: table; margin: 0 auto;"></div>

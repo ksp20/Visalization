@@ -1,0 +1,35 @@
+.high{
+    padding-left: 7px;
+    text-decoration: auto;
+    width: 100%;
+    display: block;
+}
+
+.high:hover {
+    background-color: #ddd;
+    color: rgb(53, 49, 49);
+    cursor: pointer;
+  }
+
+  .left {
+    border: solid 1px;
+    background: white;
+    z-index: 2;
+    position: absolute;
+    margin-top: -19.5px;
+    border-radius: 17px;
+    width: 24px;
+    height: 15px;
+    margin-left: -24px;
+}
+.right {
+    border: solid 1px;
+    background: white;
+    z-index: 2;
+    position: absolute;
+    margin-top: -19.5px;
+    border-radius: 17px;
+    width: 24px;
+    height: 15px;
+    margin-left: -11px;
+}

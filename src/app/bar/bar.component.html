@@ -1,0 +1,38 @@
+<!-- <p>bar works!</p> -->
+
+<!-- <div class="dropdown">
+  <button style="width: 160px;" class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" (click)="displayOptions()"> Select
+  <span class="caret"></span></button>
+  <div class="dropdown-menu" [ngStyle]="{'display': displayMenu == true ? 'block' : 'none'}" style="padding: 10px;">
+    <li *ngFor="let i of bar_options" (click)="displayOptions()">
+      <a (click)="selectOption(i)" class="high">{{i}}</a>
+    </li>
+  </div>
+</div> -->
+
+<!-- <div>
+  <button (click)="zoomIn()">Zoom In</button>
+  <button (click)="zoomOut()">Zoom Out</button>
+</div> -->
+
+
+
+<div class="form-check">
+  <input class="form-check-input" style="border-radius: 27px;width: 38px;" type="checkbox" [value]="'bottom'" id="flexCheckIndeterminate" [(ngModel)]="sdata.cb1" (change)="refresh()">
+  <label class="form-check-label" for="flexCheckIndeterminate">
+    Tilt 
+  </label>
+  <div class="left" *ngIf="sdata.cb1" ></div>
+  <div class="right" *ngIf="!sdata.cb1"></div>
+</div>
+
+<div *ngIf="reload == true" id="mod" style="display: table; margin: 0 auto;">
+</div>
+
+ 
+
+
+
+
+ <!-- <div id="title" *ngIf="!sdata.cb1"></div> -->
+ 

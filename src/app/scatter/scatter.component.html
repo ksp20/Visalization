@@ -1,0 +1,30 @@
+<div style="display: grid; grid-template-columns: 13% 20% 40%"> 
+    <div class="dropdown">
+        <button style="width: 160px;" class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" (click)="displayOptions1()">
+            x-axis
+        <span class="caret"></span></button>
+        <div class="dropdown-menu" [ngStyle]="{'display': displayMenu1 == true ? 'block' : 'none'}" style="padding: 10px;">
+            <ul *ngFor="let i of bar_options">
+                <input type="radio" name="x-axis" [value]="i" [(ngModel)]="value1" (click)="refresh('v1',i)">
+                <label [for]=i >{{i}}</label><br>
+            </ul>
+        </div>
+    </div>
+    <div class="dropdown">
+        <button style="width: 160px;" class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" (click)="displayOptions2()"> 
+            y-axis
+        <span class="caret"></span></button>
+        <div class="dropdown-menu" [ngStyle]="{'display': displayMenu2 == true ? 'block' : 'none'}" style="padding: 10px;">
+            <ul *ngFor="let j of bar_options">
+                <input type="radio" name="y-axis" [value]="j" [(ngModel)]="value2"  (click)="refresh('v2',j)">
+                <label [for]="j" >{{j}}</label><br>
+            </ul>
+        </div>
+    </div>
+    <div style="background-color: white;" *ngIf="reload == true" id="mod"></div>
+    
+</div>
+
+
+
+

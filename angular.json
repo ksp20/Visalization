@@ -16,7 +16,7 @@
             "allowedCommonJsDependencies": [
               "lodash"
             ],
-            "outputPath": "dist/demo",
+            "outputPath": "docs",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [

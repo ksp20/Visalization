@@ -1,0 +1,218 @@
+Country,Country Code,Continent,Land area,Population,Population growth,GDP per capita,Income Group,Industry,Life expectancy,Birth rate,Death rate
+Afghanistan,AFG,Asia,652230.00,40099462.00,2.851357654,355.78,Low Income,Manufacturing,61.98,35.84,7.34
+Albania,ALB,Europe,27400.00,2811666.00,-0.926918062,6377.20,Upper middle income,Manufacturing,76.46,10.24,11.33
+Algeria,DZA,Africa,2381741.00,44177969.00,1.657703201,3700.31,Lower middle income,Manufacturing,76.38,21.52,4.55
+American Samoa,ASM,North America,200.00,45035.00,-2.530170926,16653.71,Low Income,Food Production,72.99,16.02,5.27
+Andorra,AND,Europe,470.00,79034.00,1.702288225,42072.32,Low Income,Tourism and Hospitality,83.5,6.9,6.3
+Angola,AGO,Africa,1246700.00,34503774.00,3.166029862,1927.47,Lower middle income,Oil and Petroleum,61.64,38.81,8.01
+Antigua and Barbuda,ATG,North America,440.00,93219.00,0.597151595,17178.54,High income,Tourism and Hospitality,78.5,12.12,6.37
+Argentina,ARG,South America,2736690.00,45808747.00,0.947490959,10650.86,Upper middle income,Manufacturing,75.39,13.9,8.96
+Armenia,ARM,Europe,28470.00,2790974.00,-0.522963243,4972.78,Upper middle income,Manufacturing,72.04,12.05,13.01
+Aruba,ABW,North America,180.00,106537.00,-0.045044623,29127.76,High income,Tourism and Hospitality,74.63,7.19,11.24
+Australia,AUS,Oceania,7692020.00,25685412.00,0.140895083,60697.25,High income,Hospital and Health Care,83.3,12.1,6.7
+Austria,AUT,Europe,82520.00,8955797.00,0.435671684,53517.89,High income,Accommodation Services,81.24,9.6,10.3
+Azerbaijan,AZE,Europe,82650.00,10137750.00,0.441197736,5408.05,Upper middle income,"Technology, Information and Media",69.37,11.1,7.6
+"Bahamas, The",BHS,North America,10010.00,407906.00,0.352416997,28260.43,High income,Tourism and Hospitality,71.6,11.45,8.99
+Bahrain,BHR,Asia,790.00,1463265.00,-0.96602484,26850.00,High income,Oil and Petroleum,78.76,11.93,2.48
+Bangladesh,BGD,Asia,130170.00,169356251.00,1.149318476,2457.92,Lower middle income,"Technology, Information and Media",72.38,17.82,5.68
+Barbados,BRB,North America,430.00,281200.00,0.180461454,17507.47,High income,Tourism and Hospitality,77.57,10.83,9.01
+Belarus,BLR,Europe,202950.00,9302585.00,-0.828232721,7489.72,Upper middle income,IT Services and IT Consulting,72.37,9.28,16.54
+Belgium,BEL,Europe,30280.00,11586195.00,0.411601997,51850.40,High income,Construction,81.89,10.2,9.7
+Belize,BLZ,North America,22810.00,400031.00,1.285629921,6060.97,Upper middle income,Tourism and Hospitality,70.47,17.98,6.35
+Benin,BEN,Africa,112760.00,12996895.00,2.759705179,1360.91,Lower middle income,Agriculture and Food Services,59.82,36.61,9.43
+Bermuda,BMU,Europe,54.00,63764.00,-0.202104145,111774.67,High income,Tourism and Hospitality,79.28,7.7,11.3
+Bhutan,BTN,Asia,38140.00,777486.00,0.642586173,3560.20,Low Income,Manufacturing,71.82,12.48,6.48
+Bolivia,BOL,South America,1083300.00,12079472.00,1.193486719,3345.02,Lower middle income,Mining and Minerals,63.63,21.84,9.95
+Bosnia and Herzegovina,BIH,Europe,51200.00,3270943.00,-1.440652596,7230.20,Upper middle income,Manufacturing,75.3,8.42,15.71
+Botswana,BWA,Africa,566730.00,2588423.00,1.636742755,7238.80,Upper middle income,Mining and Minerals,61.14,23.58,9.46
+Brazil,BRA,South America,8358140.00,214326223.00,0.528590453,7696.78,Upper middle income,Manufacturing,72.75,12.88,8.33
+British Virgin Islands,VGB,Europe,150.00,31122.00,0.683520845,34216.00,Low Income,Tourism and Hospitality,74.49,7.63,7.61
+Brunei Darussalam,BRN,Asia,5270.00,445373.00,0.822461682,31448.91,High income,Oil and Petroleum,74.64,13.8,5.21
+Bulgaria,BGR,Europe,108560.00,6877743.00,-0.814846472,12219.34,High income,Manufacturing,71.51,8.5,21.7
+Burkina Faso,BFA,Africa,273600.00,22100683.00,2.650375915,888.78,Low income,Agriculture and Food Services,59.27,35.54,8.96
+Burundi,BDI,Africa,25680.00,12551213.00,2.672478462,221.16,Low income,Manufacturing,61.66,34.84,7.47
+Cabo Verde,CPV,Africa,4030.00,587925.00,0.902988883,3398.17,Lower middle income,Tourism and Hospitality,74.05,16.95,6.03
+Cambodia,KHM,Asia,176520.00,16589023.00,1.165135849,1625.24,Lower middle income,Tourism and Hospitality,69.58,19.33,6.84
+Cameroon,CMR,Africa,472710.00,27198628.00,2.635819406,1654.26,Lower middle income,Oil and Petroleum,60.33,34.94,8.58
+Canada,CAN,North America,8788700.00,38226498.00,0.575421916,52515.20,High income,Manufacturing,82.6,9.6,7.8
+Cayman Islands,CYM,Europe,240.00,68136.00,1.218203729,88475.60,Low Income,Tourism and Hospitality,82.19,12.4,4
+Central African Republic,CAF,Africa,622980.00,5457154.00,2.113637226,461.14,Low income,Mining and Minerals,53.9,42.68,11.39
+Chad,TCD,Africa,1259200.00,17179740.00,3.163887505,685.69,Low income,Oil and Petroleum,52.53,43.36,12.5
+Channel Islands,CHI,Europe,198.00,172683.00,0.913338674,67960.73,Low Income,Financial Services,81.23,10.12,8.45
+Chile,CHL,South America,743532.00,19493184.00,0.994344898,16240.61,High income,Manufacturing,78.94,11.79,7.43
+China,CHN,Asia,9388210.00,1412360000.00,0.0892522,12617.51,High income,Wholesale,78.21,7.52,7.18
+Colombia,COL,South America,1109500.00,51516562.00,1.143820916,6182.71,Upper middle income,Manufacturing,72.83,14.2,7.74
+Comoros,COM,Africa,1861.00,821625.00,1.899440995,1577.47,Lower middle income,Agriculture and Food Services,63.42,29.4,8.72
+"Congo, Dem. Rep.",COD,Africa,2267050.00,95894118.00,3.22252816,576.97,Low income,Mining and Minerals,59.19,42.05,9.7
+"Congo, Rep.",COG,Africa,341500.00,5835806.00,2.316488253,2540.47,Lower middle income,Mining and Minerals,63.52,30.69,7.06
+Costa Rica,CRI,North America,51060.00,5153957.00,0.600406861,12604.05,High income,Business Consulting and Services,77.02,11.87,7.19
+Cote d'Ivoire,CIV,Africa,318000.00,27478249.00,2.45530301,2613.38,Lower middle income,Agriculture and Food Services,58.6,33.93,9
+Croatia,HRV,Europe,55960.00,3879000.00,-4.256648902,17809.03,High income,Manufacturing,76.42,9.4,16.2
+Cuba,CUB,North America,103800.00,11256372.00,-0.393012542,56495.85,Low Income,Manufacturing,73.68,8.92,14.65
+Curacao,CUW,South America,444.00,152369.00,-1.677791247,17980.00,Low Income,Tourism and Hospitality,78.02,8.6,11.1
+Cyprus,CYP,Europe,9240.00,1244188.00,0.53599943,32745.84,High income,"Technology, Information and Media",81.2,10.31,7.26
+Czechia,CZE,Europe,77186.83,10505772.00,-1.81187141,26822.51,High income,Manufacturing,77.37,10.6,13.3
+Denmark,DNK,Europe,40000.00,5856733.00,0.433414489,69268.65,High income,Manufacturing,81.4,10.8,9.8
+Djibouti,DJI,Africa,23180.00,1105557.00,1.40284751,3062.55,Lower middle income,Logistics,62.31,22.21,9.15
+Dominica,DMA,North America,750.00,72412.00,0.577535935,7668.16,Upper middle income,Agriculture and Food Services,72.81,13.33,8.99
+Dominican Republic,DOM,North America,47531.00,11117873.00,1.068926667,8476.75,Upper middle income,Manufacturing,72.62,18.43,6.68
+Ecuador,ECU,South America,248360.00,17797737.00,1.182063375,5965.13,Upper middle income,Manufacturing,73.67,16.82,6.72
+"Egypt, Arab Rep.",EGY,Africa,995450.00,109262178.00,1.658383679,3886.72,Upper middle income,Textiles and Food Production,70.22,22.56,6.33
+El Salvador,SLV,North America,20720.00,6314167.00,0.340068122,4664.31,Upper middle income,Agriculture and Food Services,70.75,16.03,8.66
+Equatorial Guinea,GNQ,Africa,28050.00,1634466.00,2.378494519,7406.08,Upper middle income,Oil and Petroleum,60.59,30.5,9.04
+Eritrea,ERI,Africa,121040.83,3620312.00,1.796101337,566.73,Low Income,Agriculture and Food Services,66.54,28.62,6.73
+Estonia,EST,Europe,42750.00,1330932.00,0.105996956,27943.70,High income,"Technology, Information and Media",76.74,10,14
+Eswatini,SWZ,Africa,17200.00,1192271.00,0.979052258,4068.57,Lower middle income,Agriculture and Food Services,57.07,24.13,11.36
+Ethiopia,ETH,Africa,1128571.27,120283026.00,2.604319283,925.00,Low income,Agriculture and Food Services,64.98,32.38,6.78
+Faroe Islands,FRO,Europe,1370.00,52889.00,0.900256783,69108.21,High income,Food Production,83.5,12.8,8.1
+Fiji,FJI,Oceania,18270.00,924610.00,0.453976646,4656.05,Upper middle income,Tourism and Hospitality,67.11,19.35,8.86
+Finland,FIN,Europe,303947.70,5541017.00,0.207288594,53504.69,High income,Manufacturing,81.93,9,10.4
+France,FRA,Europe,547557.00,67764304.00,0.285508619,43671.31,High income,Real Estate,82.32,10.9,9.7
+French Polynesia,PYF,Oceania,3471.00,304032.00,0.69708774,20230.24,Low Income,Tourism and Hospitality,79.49,12.76,5.38
+Gabon,GAB,Africa,257670.00,2341179.00,2.097988103,8635.80,Upper middle income,Oil and Petroleum,65.82,27.14,7.26
+"Gambia, The",GMB,Africa,10120.00,2639916.00,2.52879318,772.15,Low income,Agriculture and Food Services,62.08,33.26,7.54
+Georgia,GEO,Europe,69490.00,3708610.00,-0.379636607,5023.27,Upper middle income,Manufacturing,71.69,13.41,15.17
+Germany,DEU,Europe,349390.00,83196078.00,0.042327057,51426.75,High income,Hospital and Health Care,80.9,9.6,12.3
+Ghana,GHA,Africa,227533.00,32833031.00,2.00774487,2422.09,Lower middle income,"Technology, Information and Media",63.8,27.55,7.63
+Gibraltar,GIB,Europe,10.00,32669.00,-0.122365337,43000.00,Low Income,Financial Services,79.33,10.71,11.55
+Greece,GRC,Europe,128900.00,10569207.00,-1.21680249,20310.68,High income,Manufacturing,80.18,8,13.5
+Greenland,GRL,North America,410450.00,56653.00,0.506106194,57116.30,Low Income,Food Production,71.15,13.4,9.4
+Grenada,GRD,North America,340.00,124610.00,0.762873605,9010.51,Upper middle income,Agriculture and Food Services,74.94,15.96,8.15
+Guam,GUM,Oceania,540.00,170534.00,0.767004481,35904.86,Low Income,Tourism and Hospitality,76.66,16.38,7.34
+Guatemala,GTM,North America,107160.00,17109746.00,1.480316806,5029.48,Upper middle income,Manufacturing,69.24,21.12,6.5
+Guinea,GIN,Africa,245720.00,13531906.00,2.444317219,1189.18,Lower middle income,Mining and Minerals,58.89,34.43,9.99
+Guinea-Bissau,GNB,Africa,28120.00,2060721.00,2.202589246,795.12,Low income,Agriculture and Food Services,59.65,31.09,8.72
+Guyana,GUY,South America,196850.00,804567.00,0.919614739,9994.65,High income,Agriculture and Food Services,65.67,20.3,9.99
+Haiti,HTI,North America,27560.00,11447569.00,1.237298997,1823.74,Lower middle income,Agriculture and Food Services,63.19,23.5,8.68
+Honduras,HND,North America,111890.00,10278345.00,1.535139668,2771.72,Lower middle income,Agriculture and Food Services,70.12,21.07,5.61
+"Hong Kong SAR, China",HKG,Asia,1050.00,7413100.00,-0.911776749,49764.79,High income,Logistics,85.49,5,6.9
+Hungary,HUN,Europe,91260.00,9709891.00,-0.413751024,18753.05,High income,Retail,74.47,9.7,16.1
+Iceland,ISL,Europe,100830.00,372520.00,1.63931664,68710.24,High income,Tourism and Hospitality,83.12,13.1,6.3
+India,IND,Asia,2973190.00,1407563842.00,0.797216094,2238.13,Lower middle income,Manufacturing,67.24,16.42,9.45
+Indonesia,IDN,Asia,1892555.47,273753191.00,0.694717688,4334.22,Upper middle income,Accommodation Services,67.57,16.43,10.07
+"Iran, Islamic Rep.",IRN,Asia,1622500.00,87923432.00,0.722822505,4084.20,Lower middle income,Oil and Petroleum,73.88,13.7,6.44
+Iraq,IRQ,Asia,434128.00,43533592.00,2.26888921,4770.84,Upper middle income,Oil and Petroleum,70.38,27.37,4.75
+Ireland,IRL,Europe,68890.00,5033164.00,0.953878184,102001.80,High income,Pharmaceuticals,82.1,11.6,6.6
+Isle of Man,IMN,Europe,570.00,84263.00,0.2578592,79530.61,Low Income,Financial Services,80.53,8.53,10.6
+Israel,ISR,Asia,21640.00,9371400.00,1.681905517,52129.52,High income,Business Consulting and Services,82.5,19.7,5.4
+Italy,ITA,Europe,295717.00,59133173.00,-0.515599999,36449.26,High income,Manufacturing,82.8,6.8,12
+Jamaica,JAM,North America,10830.00,2827695.00,0.257040922,5183.58,Upper middle income,Tourism and Hospitality,70.5,11.71,8.8
+Japan,JPN,Asia,364500.00,125681593.00,-0.459952416,40058.54,High income,Wholesale,84.45,6.6,11.7
+Jordan,JOR,Asia,88794.00,11148278.00,1.989076856,4152.76,Upper middle income,Manufacturing,74.26,21.95,3.87
+Kazakhstan,KAZ,Asia,2699700.00,19000988.00,1.299508438,10373.79,Upper middle income,Oil and Petroleum,70.23,23.5,9.61
+Kenya,KEN,Africa,569140.00,53005614.00,1.942761283,2069.66,Lower middle income,"Technology, Information and Media",61.43,27.69,8.06
+Kiribati,KIR,Oceania,810.00,128874.00,1.888540758,1766.14,Lower middle income,Tourism and Hospitality,67.42,27.21,6.24
+"Korea, Dem. People's Rep.",PRK,Asia,120410.00,25971909.00,0.40294521,900.00,Low Income,Electronics,73.28,13.24,9.31
+"Korea, Rep.",KOR,Asia,97600.00,51744876.00,-0.176408651,35142.26,High income,Automotive,83.53,5.1,6.2
+Kosovo,XKX,Europe,10905.00,1786038.00,-0.229015994,5269.78,Upper middle income,Mining and Minerals,76.81,11.14,7.22
+Kuwait,KWT,Asia,17820.00,4250114.00,-2.562808093,32324.84,High income,Manufacturing,78.67,10.41,2.91
+Kyrgyz Republic,KGZ,Asia,191800.00,6773400.00,2.898362886,1365.51,Lower middle income,Manufacturing,71.9,22.4,5.8
+Lao PDR,LAO,Asia,230800.00,7425057.00,1.433214065,2535.62,Lower middle income,Mining and Minerals,68.06,21.97,6.61
+Latvia,LVA,Europe,62230.00,1884490.00,-0.843294678,20930.40,High income,Manufacturing,73.28,9.2,18.4
+Lebanon,LBN,Asia,10230.00,5592631.00,-1.249035167,4136.15,Low Income,Manufacturing,75.05,14.95,8.27
+Lesotho,LSO,Africa,30360.00,2281454.00,1.20621788,1029.51,Lower middle income,Manufacturing,53.06,26.11,14.19
+Liberia,LBR,Africa,96320.00,5193416.00,2.05886078,675.66,Low income,Mining and Minerals,60.75,31.29,8.84
+Libya,LBY,Africa,1759540.00,6735277.00,1.214947645,5908.95,Upper middle income,Oil and Petroleum,71.91,17.83,6.02
+Liechtenstein,LIE,Europe,160.00,39039.00,0.727556394,197504.55,Low Income,Financial Services,84.4,9.6,6.9
+Lithuania,LTU,Europe,62610.00,2800839.00,0.21280543,23849.62,High income,Manufacturing,74.34,8.3,17
+Luxembourg,LUX,Europe,2574.46,640064.00,1.518349367,133711.79,High income,Financial Services,82.75,10.5,7
+"Macao SAR, China",MAC,Asia,33.00,686607.00,1.515044864,45104.89,High income,Tourism and Hospitality,85.4,10.11,4.11
+Madagascar,MDG,Africa,581800.00,28915653.00,2.416869374,503.35,Low income,Agriculture and Food Services,64.49,30.95,7.1
+Malawi,MWI,Africa,94280.00,19889742.00,2.611417766,633.61,Low income,Agriculture and Food Services,62.9,32.86,6.98
+Malaysia,MYS,Asia,328550.00,33573874.00,1.119853991,11134.62,Upper middle income,Manufacturing,74.88,15.24,6.03
+Maldives,MDV,Asia,300.00,521457.00,1.355177392,10076.32,Upper middle income,Tourism and Hospitality,79.92,14.09,3.02
+Mali,MLI,Africa,1220190.00,21904983.00,3.157964369,881.51,Low income,Mining and Minerals,58.94,41.64,9.27
+Malta,MLT,Europe,320.00,518536.00,0.619810316,34881.29,High income,"Technology, Information and Media",82.86,8.5,8
+Marshall Islands,MHL,Oceania,180.00,42050.00,-3.189954901,6130.44,Upper middle income,Tourism and Hospitality,65.27,19.28,7.56
+Mauritania,MRT,Africa,1030700.00,4614974.00,2.553910771,1998.39,Lower middle income,Mining and Minerals,64.36,33.19,7.44
+Mauritius,MUS,Africa,1997.00,1266334.00,0.025272988,9068.98,Upper middle income,Tourism and Hospitality,73.68,10.3,10.5
+Mexico,MEX,North America,1943950.00,126705138.00,0.559420832,10359.15,Upper middle income,Manufacturing,70.21,14.86,9.41
+"Micronesia, Fed. Sts.",FSM,Oceania,700.00,113131.00,0.9101587,3588.76,Upper middle income,Tourism and Hospitality,70.71,20.78,6.21
+Moldova,MDA,Europe,32970.00,2595809.00,-1.503429523,5274.74,Upper middle income,Agriculture and Food Services,68.85,12.43,16.36
+Monaco,MCO,Europe,2.08,36686.00,-0.641236846,235132.78,Low Income,Tourism and Hospitality,89.5,8.8,10.9
+Mongolia,MNG,Asia,1557507.00,3347782.00,1.609371036,4566.14,Upper middle income,Mining and Minerals,70.98,21.41,6.13
+Montenegro,MNE,Europe,13450.00,619211.00,-0.337762722,9465.96,Upper middle income,Tourism and Hospitality,73.82,11.4,14.8
+Morocco,MAR,Africa,446300.00,37076584.00,1.051484312,3767.52,Lower middle income,Manufacturing,74.04,17.55,6.17
+Mozambique,MOZ,Africa,786380.00,32077072.00,2.842112349,504.04,Low income,Agriculture and Food Services,59.33,36.6,8.79
+Myanmar,MMR,Asia,652670.00,53798084.00,0.699278204,1231.69,Lower middle income,Agriculture and Food Services,65.67,17.1,9.77
+Namibia,NAM,Africa,823290.00,2530151.00,1.63585889,4919.19,Upper middle income,Mining and Minerals,59.27,27.44,10.71
+Nauru,NRU,Oceania,20.00,12511.00,1.579022576,11632.69,High income,Mining and Minerals,63.62,27.56,6.63
+Nepal,NPL,Asia,143350.00,30034989.00,2.311723712,1229.39,Lower middle income,"Technology, Information and Media",68.45,20.4,7.78
+Netherlands,NLD,Europe,33670.00,17533044.00,0.523490508,58727.87,High income,Hospital and Health Care,81.46,10.2,9.8
+New Caledonia,NCL,Oceania,18280.00,270390.00,-0.254861903,37247.49,Low Income,Mining and Minerals,79.13,14.3,7.2
+New Zealand,NZL,Oceania,263310.00,5111400.00,0.415621677,49996.42,High income,Manufacturing,82.21,11.48,6.83
+Nicaragua,NIC,North America,120340.00,6850540.00,1.39120242,2064.93,Lower middle income,Agriculture and Food Services,73.84,20.51,4.86
+Niger,NER,Africa,1266700.00,25252722.00,3.707423785,590.63,Low income,Mining and Minerals,61.58,45.29,8.14
+Nigeria,NGA,Africa,910770.00,213401323.00,2.406363381,2065.77,Lower middle income,"Technology, Information and Media",52.68,37.12,13.08
+North Macedonia,MKD,Europe,25220.00,2065092.00,-0.359578822,6778.56,Upper middle income,Agriculture and Food Services,74.54,10.2,15.5
+Northern Mariana Islands,MNP,Oceania,460.00,49481.00,-0.21399451,17302.92,Low Income,Tourism and Hospitality,76.8,15.6,5.6
+Norway,NOR,Europe,364270.00,5408320.00,0.534772282,93072.89,High income,Entertainment Providers,83.16,10.4,7.8
+Oman,OMN,Asia,309500.00,4520471.00,-0.505921839,19509.47,High income,Oil and Petroleum,72.54,18.42,3.8
+Pakistan,PAK,Asia,770880.00,231402117.00,1.834062082,1506.11,Lower middle income,IT Services and IT Consulting,66.1,27.52,7.17
+Palau,PLW,Oceania,460.00,18024.00,0.288921192,12921.83,Low Income,Tourism and Hospitality,65.53,13.4,10.2
+Panama,PAN,North America,74180.00,4351267.00,1.315615015,15491.29,High income,Manufacturing,76.22,17.69,6.07
+Papua New Guinea,PNG,Oceania,452860.00,9949437.00,2.02856054,2624.60,Lower middle income,Mining and Minerals,65.35,25.51,6.68
+Paraguay,PRY,South America,397300.00,6703799.00,1.277616002,5959.44,Upper middle income,Agriculture and Food Services,70.26,20.63,7.64
+Peru,PER,South America,1280000.00,33715471.00,1.225660252,6635.46,Upper middle income,Manufacturing,72.38,17.62,7.99
+Philippines,PHL,Asia,298170.00,113880328.00,1.494557167,3460.54,Lower middle income,Business Consulting and Services,69.27,21.81,7.31
+Poland,POL,Europe,306100.00,37747124.00,-0.401728617,18050.28,High income,Hospital and Health Care,75.6,8.8,13.8
+Portugal,PRT,Europe,91605.60,10361831.00,0.626850165,24661.17,High income,Manufacturing,81.07,7.7,12.1
+Puerto Rico,PRI,North America,8870.00,3262693.00,-0.57650769,32601.57,High income,Pharmaceuticals,80.16,5.9,8.6
+Qatar,QAT,Asia,11490.00,2688235.00,-2.648531832,66858.74,High income,Manufacturing,79.27,9.82,1.31
+Romania,ROU,Europe,230080.00,19122059.00,-0.746036479,14946.62,High income,Manufacturing,72.96,9.3,17.5
+Russian Federation,RUS,Asia,16376870.00,144130482.00,0.039793394,12532.05,High income,Oil and Petroleum,69.36,9.6,16.7
+Rwanda,RWA,Africa,24670.00,13461888.00,2.371751548,821.17,Low income,Agriculture and Food Services,66.07,29.98,6.28
+Samoa,WSM,Oceania,2780.00,218764.00,1.768578216,3857.69,Lower middle income,Tourism and Hospitality,72.77,27.25,5.34
+San Marino,SMR,Europe,60.00,33745.00,-0.773412758,54982.45,Low Income,Tourism and Hospitality,83.72,6.2,9.1
+Sao Tome and Principe,STP,Africa,960.00,223107.00,2.022036167,2350.45,Lower middle income,Agriculture and Food Services,67.59,28.26,6.39
+Saudi Arabia,SAU,Asia,2149690.00,35950396.00,-0.129847471,24315.62,High income,Manufacturing,76.94,17.47,2.86
+Senegal,SEN,Africa,192530.00,16876720.00,2.645380545,1633.56,Lower middle income,"Technology, Information and Media",67.09,32.57,5.92
+Serbia,SRB,Europe,84090.00,6834326.00,-0.94368817,9232.96,Upper middle income,Manufacturing,72.73,9.1,20
+Seychelles,SYC,Africa,460.00,99258.00,0.805183391,12963.06,Upper middle income,Tourism and Hospitality,73.4,16.8,9.3
+Sierra Leone,SLE,Africa,72180.00,8420641.00,2.241767371,504.62,Low income,Mining and Minerals,60.06,31.36,9.11
+Singapore,SGP,Asia,718.00,5453566.00,-4.1703363,77710.09,High income,Manufacturing,83.44,8.6,5.8
+Sint Maarten (Dutch part),SXM,North America,34.00,42668.00,0.842576003,31711.61,High income,Tourism and Hospitality,73.97,10.5,6.4
+Slovak Republic,SVK,Europe,48080.00,5447247.00,-0.212358808,21768.15,High income,Automotive,74.71,10.4,13.5
+Slovenia,SVN,Europe,20136.40,2108079.00,0.26885197,29331.06,High income,Manufacturing,80.88,9,11
+Solomon Islands,SLB,Oceania,27990.00,707851.00,2.3817423,2232.54,Lower middle income,Agriculture and Food Services,70.35,29.79,5.03
+Somalia,SOM,Africa,627340.00,17065581.00,3.146236588,576.52,Low income,Agriculture and Food Services,55.28,43.56,11.6
+South Africa,ZAF,Africa,1213090.00,59392255.00,0.998920419,7073.61,Upper middle income,Manufacturing,62.34,19.82,11.43
+South Sudan,SSD,Africa,631930.00,10748272.00,1.3303716,421.86,Low Income,Oil and Petroleum,54.98,29.11,11.05
+Spain,ESP,Europe,499733.24,47415794.00,0.105799194,30488.82,High income,Manufacturing,83.18,7.1,9.5
+Sri Lanka,LKA,Asia,61860.00,22156000.00,1.075449957,3996.57,Lower middle income,IT Services and IT Consulting,76.4,14.02,7.36
+St. Kitts and Nevis,KNA,North America,260.00,47606.00,-0.075592142,18035.39,High income,Tourism and Hospitality,71.68,12.13,10.18
+St. Lucia,LCA,North America,610.00,179651.00,0.230712748,10916.23,Upper middle income,Tourism and Hospitality,71.11,11.49,10.3
+St. Martin (French part),MAF,North America,50.00,31948.00,-1.875994925,20320.72,Low Income,Tourism and Hospitality,80.38,15.05,4.91
+St. Vincent and the Grenadines,VCT,North America,390.00,104332.00,-0.287130995,8360.06,Upper middle income,Tourism and Hospitality,69.63,12.9,13.43
+Sudan,SDN,Africa,1868000.00,45657202.00,2.70104594,749.71,Low income,Oil and Petroleum,65.27,33.6,6.8
+Suriname,SUR,South America,156000.00,612985.00,0.970459647,5026.88,Upper middle income,Mining and Minerals,70.27,18.15,8.67
+Sweden,SWE,Europe,407283.54,10415811.00,0.600591533,61417.68,High income,Manufacturing,83.16,11,8.8
+Switzerland,CHE,Europe,39509.63,8704546.00,0.765501039,93446.43,High income,Retail,83.85,10.3,8.2
+Syrian Arab Republic,SYR,Asia,183630.00,21324367.00,2.621583957,420.62,Low Income,Oil and Petroleum,72.06,20.11,5.12
+Tajikistan,TJK,Asia,138790.00,9750064.00,2.14442566,916.69,Lower middle income,Mining and Minerals,71.59,26.75,4.55
+Tanzania,TZA,Africa,885800.00,63588334.00,3.007287233,1146.03,Lower middle income,Administrative and Support Services,66.2,36.21,6.22
+Thailand,THA,Asia,510890.00,71601103.00,0.175345075,7060.90,Upper middle income,Manufacturing,78.72,9,7.92
+Timor-Leste,TLS,Asia,14870.00,1320942.00,1.598470014,2741.95,Lower middle income,Manufacturing,67.74,24.94,7.23
+Togo,TGO,Africa,54390.00,8644829.00,2.367338962,976.67,Low income,Mining and Minerals,61.62,31.86,8.17
+Tonga,TON,Oceania,720.00,106017.00,0.722298202,4425.97,Low Income,Tourism and Hospitality,70.99,23.05,6.97
+Trinidad and Tobago,TTO,North America,5130.00,1525663.00,0.493855745,16056.30,High income,Oil and Petroleum,72.97,11.69,9.13
+Tunisia,TUN,Africa,155360.00,12262946.00,0.82886347,3807.18,Lower middle income,Manufacturing,73.77,16.09,7.88
+Turkiye,TUR,Europe,769630.00,84147318.00,0.910444903,9743.21,Upper middle income,Automotive,76.03,14.68,6.4
+Turkmenistan,TKM,Asia,469930.00,6341855.00,1.451977111,7885.30,Low Income,Oil and Petroleum,69.26,21.59,6.59
+Turks and Caicos Islands,TCA,North America,950.00,45114.00,1.87498501,23158.64,High income,Tourism and Hospitality,74.59,12.48,9.24
+Tuvalu,TUV,Oceania,30.00,11204.00,1.212244899,5372.76,Upper middle income,Tourism and Hospitality,64.55,23.48,10.16
+Uganda,UGA,Africa,200520.00,45853778.00,3.211427904,883.47,Low income,Consumer Services,62.71,36.8,5.88
+Ukraine,UKR,Europe,579400.00,43822901.00,-0.702971858,4827.85,Upper middle income,"Technology, Information and Media",69.65,7.3,18.5
+United Arab Emirates,ARE,Asia,71020.00,9365145.00,0.834812788,44332.34,High income,Business Consulting and Services,78.71,10.31,1.87
+United Kingdom,GBR,Europe,241930.00,67026292.00,-0.081937241,46869.76,High income,Retail,80.7,10.1,9.7
+United States,USA,North America,9147420.00,332031554.00,0.156747055,70219.47,High income,Manufacturing,76.33,11,10.4
+Uruguay,URY,South America,175020.00,3426260.00,-0.082446609,17924.00,High income,"Technology, Information and Media",75.44,10.47,12.16
+Uzbekistan,UZB,Asia,440653.00,34915100.00,1.975706066,1993.42,Lower middle income,Agriculture and Food Services,70.86,25.9,5
+Vanuatu,VUT,Oceania,12190.00,319137.00,2.362741525,3044.57,Lower middle income,Tourism and Hospitality,70.45,29.44,5.4
+"Venezuela, RB",VEN,South America,882050.00,28199867.00,-1.025178708,3691.64,Low Income,Oil and Petroleum,70.55,15.88,8.12
+Viet Nam,VNM,Asia,313429.00,97468029.00,0.844181677,3756.49,Lower middle income,Textiles and Food Production,73.62,15.01,7.32
+Virgin Islands (U.S.),VIR,North America,350.00,105870.00,-0.395928119,41976.01,Low Income,Tourism and Hospitality,80.07,11.8,8.6
+West Bank and Gaza,PSE,Asia,6025.00,4922749.00,2.457038653,3678.64,Upper middle income,Manufacturing,73.47,28.24,3.82
+"Yemen, Rep.",YEM,Asia,527970.00,32981641.00,2.137789701,543.64,Low Income,Oil and Petroleum,63.75,30.54,6.85
+Zambia,ZMB,Africa,743390.00,19473125.00,2.840805978,1134.71,Lower middle income,Mining and Minerals,61.22,34.51,6.97
+Zimbabwe,ZWE,Africa,386850.00,15993524.00,2.045714878,1773.92,Lower middle income,Manufacturing,59.25,30.54,9.06
